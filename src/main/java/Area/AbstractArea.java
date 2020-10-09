@@ -19,7 +19,7 @@ public abstract class AbstractArea {
         this.area = area;
     }
     
-    public void calculoArea(){
+    public calculoArea(){
         
     }
     
