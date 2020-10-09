@@ -20,5 +20,4 @@ public abstract class AbstractArea {
     }
     
     public abstract double calculoArea();
-    
 }
