@@ -3,6 +3,8 @@ package Area;
 
 
 public abstract class AbstractArea {
+    //Permite heredar metodo para calcular area de diferentes figuras
+    
     double area;
     
     public AbstractArea(double area){
