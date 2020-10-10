@@ -19,6 +19,10 @@ public class ChooseFigure {
         RhombusArea rombo = new RhombusArea(4,5);
         System.out.println(rombo.calculoArea());
         
+        // Objeto calcula area rectangulo
+        RectangleArea rectangulo = new RectangleArea(10,3);
+        System.out.println(rectangulo.calculoArea());
+        
     }
 
 }
