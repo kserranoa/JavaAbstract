@@ -23,6 +23,9 @@ public class ChooseFigure {
         RectangleArea rectangulo = new RectangleArea(10,3);
         System.out.println(rectangulo.calculoArea());
         
+        // Objeto calcula area circulo
+        CircleArea circulo = new CircleArea(7);
+        System.out.println(circulo.calculoArea());
     }
 
 }
