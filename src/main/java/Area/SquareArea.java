@@ -3,16 +3,12 @@ package Area;
 
 
 public class SquareArea extends AbstractArea{
-        double lado;
+        private double lado;
         
-        
-        public SquareArea(double area, double lado){
-            super(area);
-            this.lado = lado;
-        }
-        
-      @Override
-       public double calculoArea(double lado){
-             area = lado ** 2;
-        }
+       public SquareArea(double lado){
+           this.lado = lado;
+       }
+       
+       public double calculoArea(){
+             return (Math.pow(lado, 2));        }
 }
