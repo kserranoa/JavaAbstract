@@ -1,6 +1,4 @@
-
 package Area;
-
 
 public class TriangleArea extends AbstractArea{
     // Clase hereda abstracta para calculo area Triangulo
