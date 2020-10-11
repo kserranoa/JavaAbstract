@@ -1,6 +1,4 @@
-
 package Area;
-
 
 public class RectangleArea extends AbstractArea{
      // Clase hereda abstracta para calculo area Rectangulo
