@@ -4,12 +4,10 @@ Shakmurla. 2018. 73- Clases abstractas y métodos abstractos en java.- Programa 
 Diagrama de flujo de datos
 Karina Serrano Avendanoa. https://drive.google.com/file/d/1tZ4GKVLlmF1BHN9y75M-jUTPlFMRkFmn/view
 */
-
 package Area;
 
-
 public class ChooseFigure {
-
+    //Permite heredar clase abstrata
     public static void main(String[] args) {
         
         // Objeto calcula area cuadrado
