@@ -1,6 +1,4 @@
-
 package Area;
-
 
 public class SquareArea extends AbstractArea{
     // Clase hereda abstracta para calculo area Cuadrado
