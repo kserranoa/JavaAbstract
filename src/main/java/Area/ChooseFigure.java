@@ -1,4 +1,9 @@
-
+/*
+Referencia:
+Shakmurla. 2018. 73- Clases abstractas y métodos abstractos en java.- Programa de ejemplo.  https://youtu.be/ZSR_SFPfiy8
+Diagrama de flujo de datos
+Karina Serrano Avendanoa. https://drive.google.com/file/d/1tZ4GKVLlmF1BHN9y75M-jUTPlFMRkFmn/view
+*/
 
 package Area;
 
